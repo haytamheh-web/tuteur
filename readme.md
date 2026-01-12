@@ -1,4 +1,4 @@
-# 🎓 StudyGuide AI - L'Assistant Pédagogique Socratique
+🎓 StudyGuide AI 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green)
