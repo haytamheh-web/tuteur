@@ -23,4 +23,4 @@ L'application suit une architecture RAG  moderne :
 ### 1. Cloner le projet
 ```bash
 git clone [https://github.com/haytamheh-web/tuteur.git](https://github.com/haytamheh-web/tuteur.git)
-cd studyguide-ai
+cd tuteur
