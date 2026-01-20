@@ -1,12 +1,5 @@
-# Fichiers de configuration sensibles
 .env
-
-# Dossiers virtuels Python
-venv/
 __pycache__/
-
-# Fichiers systèmes inutiles
-.DS_Store
-
-#Les PDF de cours
 documents/
+.DS_Store
+.vscode/
